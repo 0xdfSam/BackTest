@@ -1,0 +1,5 @@
+pandas==1.3.3
+numpy==1.21.2
+ibapi==9.81.1
+backtrader==1.9.76.123
+matplotlib==3.4.3
